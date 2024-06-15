@@ -1,13 +1,8 @@
 # Human Animaker  
-This project is based on [TADA](https://github.com/TingtingLiao/TADA), generating textured animatable parametric model for a single human scan. 
-
-<!-- https://github.com/TingtingLiao/hanimaker/assets/45743512/ef821ae4-1515-4303-9266-5c2a1a1fe5b9 -->
-
-<!-- https://github.com/TingtingLiao/hanimaker/assets/45743512/61f6f681-c9b3-4795-ae02-e0f5db6ee877 -->
-
-**Input vs Prediction:**
-
+This project is based on [TADA](https://github.com/TingtingLiao/TADA), generating textured animatable parametric model from a single human scan. 
  
+**Input vs Predict**
+
 https://github.com/TingtingLiao/hanimaker/assets/45743512/240a9479-b1c5-4a47-addd-37f3a775bd91
 
 [gui_demo.webm](https://github.com/TingtingLiao/hanimaker/assets/45743512/426beec9-3cbe-4fc9-bcd7-f2f6c3f56950)
@@ -29,8 +24,8 @@ pip install -r requirements.txt
 ```
 
 ## Data 
-Download extra data [here](). 
- 
+- Download extra data [here](https://huggingface.co/Luffuly/hanimaker/tree/main). 
+- (Optional) For input scans and smplx you can use [THuman2.0](https://github.com/ytrock/THuman2.0-Dataset). 
 
 ## Usage   
 ```bash
