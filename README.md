@@ -37,7 +37,7 @@ Download extra data [here]().
 python main.py --obj_file data/example/0525/0525.obj --smplx_file data/example/0525/0525_smplx.pkl --save_dir ./out/0525
   
 # animation with gui 
-python animation_gui.py --smplx_params  out/0525/smplx_param.npy --motion_file data/aist/motions/gBR_sBM_cAll_d06_mBR3_ch06.pkl
+python animation_gui.py --smplx_params  out/0525/smplx_param.npy --motion_file data/aist/motions/gBR_sBM_cAll_d06_mBR3_ch06.pkl 
 ```
 
 ### Citation 
