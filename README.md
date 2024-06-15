@@ -7,10 +7,11 @@ This project is based on [TADA](https://github.com/TingtingLiao/TADA), generatin
 
 **Input vs Prediction:**
 
-https://github.com/TingtingLiao/hanimaker/assets/45743512/d97aa23f-8208-4e61-b8cc-3fef67c97e7b
-
  
-[gui_demo.webm](https://github.com/TingtingLiao/hanimaker/assets/45743512/a19ac688-bb85-4eb9-8ced-3b5d99699b03)
+https://github.com/TingtingLiao/hanimaker/assets/45743512/240a9479-b1c5-4a47-addd-37f3a775bd91
+
+[gui_demo.webm](https://github.com/TingtingLiao/hanimaker/assets/45743512/426beec9-3cbe-4fc9-bcd7-f2f6c3f56950)
+
 
 ## Install 
 ```bash

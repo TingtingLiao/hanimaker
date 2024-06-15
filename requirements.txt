@@ -1,0 +1,13 @@
+tqdm
+scipy 
+uarray 
+trimesh 
+opencv-python
+imageio==2.19.3  
+imageio-ffmpeg==0.4.7
+matplotlib
+pyrender
+kiui
+dearpygui
+scikit-image   
+git+https://github.com/NVlabs/nvdiffrast.git
